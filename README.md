@@ -1,3 +1,5 @@
+![alt text](image.png)
+
 # Instagram Profile Data Fetcher
 
 This Python script uses the `instaloader` library to retrieve public profile information from Instagram.
